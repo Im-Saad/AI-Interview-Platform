@@ -6,6 +6,6 @@ duration: float = 12
 
 #acessess token
 
-access_token= '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'
+access_token= '#'
 
 TokenLength = 16192
