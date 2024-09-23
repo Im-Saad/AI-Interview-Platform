@@ -1,8 +1,3 @@
-# Techshilla
-
-This is the offical submission for the techshilla's problem statement by Ravindra Bhawan's team. 
-
-
 ## Models used
 
 For the problem statement, several models had to be used and were fine-tuned accordingly to fit our needs. These can be divided into 4 sections. These include 
@@ -171,15 +166,3 @@ SUS score has been computed for the built system. The System Usability Scale is 
 
 The average SUS score is 112.25 on 10 responses. <br>  
 
-Questionnaire form link: https://docs.google.com/forms/d/e/1FAIpQLSfV_HlQoKzcB9UBJ8bQFq-rzOx1lpr5rLVVguykHLk0onnk2w/viewform  <br>
-
-Responses Spreadsheet link: https://docs.google.com/spreadsheets/d/1MC1SWutRmduxM8BcGwSdaXO1xHi_u2NgnYnNt3ZseQc/edit?resourcekey#gid=1074690825  <br>
-
-The final report has also been uploaded, containing all the relevant information and an explanation of the platform and models, along with results and references. The final report can be found [here](Project_Report_TechShila.pdf)
-
-**Model Working Video** has been uploaded on the drive link: https://drive.google.com/file/d/1iO5zllxw5Guqm4R0A7cf25XDDvOgWcwP/view?usp=sharing
-
-# Presentation 
-
-The final ppt can be found here: - 
-[Presentation](Techshila_PPT.pptx)
