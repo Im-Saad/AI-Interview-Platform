@@ -38,10 +38,3 @@ def feedback(response,responsean,Confident,pace) -> None:
 
   else:
     print(f"Your pace was quite off it was around:- {pace}. Your average pace should be around 128 and the range should be around 120 to 150")
-
-
-def Grammer(model) -> int:
-
-  #Predicting whether the sentence has grammatical error
-
-  return
