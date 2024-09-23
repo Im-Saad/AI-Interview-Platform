@@ -39,7 +39,7 @@ def SpeechToText() -> str:
 
 def pace(bpm) -> bool:
 
-    if bpm > 150 and bpm < 120:
+    if bpm < 150 and bpm > 120:
         
         return False
     
